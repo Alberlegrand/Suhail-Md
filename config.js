@@ -7,8 +7,8 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="saimsamsun789@gmail.com"
-global.location="Lahore,Pakistan."
+global.email ="hitdeveloper2023@gmail.com"
+global.location="Port-au-Prince,Haiti."
 
 
 global.mongodb= process.env.MONGODB_URI || ""
@@ -76,8 +76,8 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "sᴜʜᴀɪʟ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "It'x Suhail",
+  botname : process.env.BOT_NAME  || "HITDEV-BOT",
+  ownername:process.env.OWNER_NAME|| "Mr Alberno",
 
 
   errorChat : process.env.ERROR_CHAT || "",
